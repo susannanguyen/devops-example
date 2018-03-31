@@ -2,7 +2,7 @@ export class GuiModel {
 
     private _guiModel = {
         "application": {
-            "title": "DevOps Example",
+            "title": "You can do it!",
             "formList": [
                 {
                     "id": "PersonForm",
@@ -334,7 +334,7 @@ export class GuiModel {
                         {
                             "type": "button",
                             "name": "Contacts",
-                            "icon": "fa-user",
+                            "icon": "fa-odnoklassniki",
                             "color": "blue",
                             "page": "contactspage",
                         },
@@ -342,21 +342,21 @@ export class GuiModel {
                             "type": "button",
                             "name": "Companies",
                             "icon": "fa-industry",
-                            "color": "lime",
+                            "color": "purple",
                             "page": "companiespage",
                         },
                         {
                             "type": "button",
                             "name": "Projects",
                             "icon": "fa-cubes",
-                            "color": "yellow",
+                            "color": "magenta",
                             "page": "projectspage",
                         },
                         {
                             "type": "button",
                             "name": "Hobbies",
-                            "icon": "fa-bicycle",
-                            "color": "carrot",
+                            "icon": "fa-film",
+                            "color": "pink",
                             "page": "hobbiespage",
                         },
                         {
@@ -370,8 +370,7 @@ export class GuiModel {
                             "type": "button",
                             "name": "ElementTest",
                             "icon": "fa-globe",
-                            "width": 2,
-                            "color": "asbestos",
+                            "color": "silver",
                             "page": "elementspage",
                         }
                     ]
